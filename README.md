@@ -8,6 +8,7 @@
 
 ## Examples
  - [Click Counter using State][base-js-fiddle]
+ - [componentDidMount hook](https://jsfiddle.net/paradasia/790bp81y/16/)
 
 
 ## Resources
@@ -16,12 +17,13 @@
 
 
 ## Tutorials
-*(Example format:)*
- - TUTORIAL LINK HERE
+ - [Getting Started with React Hooks](https://scotch.io/tutorials/getting-started-with-react-hooks)
 
- Level: <Beginner | Intermediate | Advanced>
+ **Level:** *Beginner*
 
- Review: <how was it?>
+ **Review:** They cover the `useState` hook and basic use of the `useEffect`
+ hook to simulate `componentDidMount` and to run callbacks when state or props
+ change.  For an experienced React Dev this can be finished in ~10 minutes.
 
 
 ## Sub-Topics:
@@ -40,7 +42,6 @@ Fork the [base JS fiddle][base-js-fiddle] and use Hooks to implement an
 
 ### Try a Tutorial:
 Write a review for one of the following tutorials:
-- [Getting Started with React Hooks](https://scotch.io/tutorials/getting-started-with-react-hooks)
 - [Building a CRUD App in React with Hooks](https://www.taniarascia.com/crud-app-in-react-with-hooks/)
 - [Hooks in React Spring, A Tutorial](https://medium.com/@drcmda/hooks-in-react-spring-a-tutorial-c6c436ad7ee4)
 
