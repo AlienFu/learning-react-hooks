@@ -28,6 +28,12 @@
 hook to simulate `componentDidMount` and to run callbacks when state or props
 change. For an experienced React Dev this can be finished in ~10 minutes.
 
+- [React Hooks Tutorial on Developing a Custom Hook for Data Fetching](https://itnext.io/react-hooks-tutorial-on-developing-a-custom-hook-for-data-fetching-8ad5840db7ae)
+
+**Level:** _Intermediate_
+
+**Review:** This tutorial assumes you know the basics about `useState` and `useEffect`. You will make a custom async hook. For an experienced React Dev this can be finished in ~10 minutes.
+
 ## Sub-Topics:
 
 - Hooks and Redux
